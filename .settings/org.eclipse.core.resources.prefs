@@ -1,9 +1,5 @@
 eclipse.preferences.version=1
-encoding//conf/info.sky1=UTF-8
 encoding//src/main/java=UTF-8
-encoding//src/main/java/vn/com/skyone/app2sky/CopyDoctor.java=UTF-8
-encoding//src/main/java/vn/com/skyone/app2sky/CopyResult.java=UTF-8
-encoding//src/main/java/vn/com/skyone/app2sky/Lib.java=UTF-8
 encoding//src/main/java/vn/com/skyone/metro2sky/AddExport.java=UTF-8
 encoding//src/main/java/vn/com/skyone/metro2sky/AddItem.java=UTF-8
 encoding//src/main/java/vn/com/skyone/metro2sky/AddMaterialItem.java=UTF-8
